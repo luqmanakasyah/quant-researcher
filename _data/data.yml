@@ -29,7 +29,7 @@ profile:
   display: true
   title: Summary
   details: |
-    + Highly quantitative researcher with a PhD in Physics, specialising in spectral data analysis and mathematical modeling of plasma systems. Practical experience in the use of Python to solve real-world problems via data analysis, visualisation, and machine learning pipeline development (_see Awards_).
+    + Highly quantitative researcher with a PhD in Physics, specialising in spectral data analysis and mathematical modelling of plasma systems. Practical experience in the use of Python to solve real-world problems via data analysis, visualisation, and machine learning pipeline development (_see Awards_).
     + Highly motivated in self-directed learning, as evidenced by multiple professional certificates including Python Data Science by IBM and Executive Programme in Algorithmic Trading (EPAT) sponsored by Institute of Banking and Finance, Singapore.
     + Effective listener and communicator with astute problem-solving skills and ability to work independently as well as collaborate seamlessly across functions, which translated into 100% customer satisfaction and retention in all 12 managed accounts with LiSAT USA across the Americas, Europe and Asia.
 
@@ -43,34 +43,30 @@ awards:
         
 experiences:
   display: true
-  title: Experiences
+  title: Professional Experience
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Product and Application Scientist
+      time: Mar 2022 - Present
+      company: LiSAT USA
       tag:
-      location: Beijing
+      location: US-SG (Hybrid)
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Built and maintained strong relationships at all levels within key clients’ organizations while leading and developing a team of CSMs to manage 35 accounts in the electronics and automotive industries for the thermal management of their devices and components
+        + Collaborated with manufacturing, engineering and sales teams to develop, deliver and execute customer success plans which define the key performance and success metrics
+        + Delivered complex technical presentations and product demonstrations in 7 international conferences a year to help clients achieve technical success and created over 30 effective marketing materials and technical documents to generate over 120 new leads in a year
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Senior Engineer
+      time: Aug 2021 - Feb 2022
+      company: GlobalFoundries Singapore
+      tag: 
+      location: Singapore
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        + Developed an award-winning Predictive Maintenance model that was successfully implemented, yielding over 200% of the original throughput with half the original rate of yield defects
+        + Ensured the prompt delivery of all products by junior engineers at least 48 hours before customer shipping date via effective leadership and communication
+        + Facilitated the smooth communication amongst cross-functional teams, leveraging both in-person and online meetings, to guarantee 100% customer satisfaction by establishing clear and consistent lines of communication to align teams and deliver a seamless experience to clients as a single point of contact
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -88,80 +84,77 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
+    + Python, C/C++
+    + JavaScript
+    + Mathematical modelling
+    + Data analysis
+    + Machine learning
+    + Problem-solving
+    + Cross-functional teams
+    + Trading strategies
+    + Object-oriented programming
 
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+#   levels:
+#     - name: Skill A
+#       level: 90
+#     - name: Skill B
+#       level: 80
+#     - name: Skill C
+#       level: 70
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Nanyang Technological University
+      time: 2017 - 2022
+      major: Physics
+      degree: Doctor of Philosophy
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        + Mathematical modelling and Monte-Carlo simulations of plasma systems
+        + Optimisation of process parameters using multi-variate regression
+        + Data analysis and visualisation for clear presentation of experimental results in doctoral thesis and _viva voce_.
 
 certificates:
   display: true
-  title: Certificates
+  title: Professional Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
+    - name: Executive Programme in Algorithmic Trading
+      authority: QuantInsti x Institute of Banking and Finance, Singapore
+      time: 2022
+      link: https://certificates.quantinsti.com/ec76682c-5932-4644-845f-30255ece55e9
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
+    - name: Python Data Science
+      authority: IBM x edX
       time: 2020
-      link: https://www.google.com
+      link: https://credentials.edx.org/credentials/ee490bdc83b5476b897a912f7120f7bd/
       details: |
 
 publications:
   display: true
-  title: Publications
+  title: Other Involvements
   intro: |
-    This is all the books I wrote.
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Captain, Singapore Armed Forces
+      details: |
+        + In charge of operations and training of the whole battalion while fostering solid camaraderie amongst soldiers, achieving consistently positive NS experience over the past 12 years
+        + Received NS Excellence Awards in 2018, 2021 and 2022.
+
+#       authors: Foo Bar
+#       conference: Foobar, 2019
+#       link: https://www.google.com
+    - title: Lead Researcher, GreenSG COLLAB
+      details: |
+        + Planning and execution of programmes focused on promoting sustainability efforts and awareness in Singapore
+        + Provide support and mentorship to project teams and ensure that they are able to satisfy and impress stakeholders when presenting their projects
+
+#       authors: Foo Bar
+#       conference: Foobar, 2019
+#       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -182,9 +175,9 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Building progressive web apps using ReactJS and NodeJS
       link:
-    - item: Cooking
+    - item: Developing machine learning pipelines for commercial applications using Python
       link:
 
 evaluation:
