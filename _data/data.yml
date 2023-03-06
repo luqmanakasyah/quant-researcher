@@ -32,7 +32,7 @@ profile:
     + Highly quantitative physics PhD graduate with expertise in mathematical modeling of plasma systems and spectral data analysis. Practical experience in using Python for data analysis, visualisation, and developing machine learning pipelines.
     + Second
 
-experiences:
+projects:
   display: true
   title: Awards
   items:
@@ -68,22 +68,22 @@ experiences:
 
         ...
 
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
+# projects:
+#   display: true
+#   title: Projects
+#   intro: |
+#     This is all the projects I'm involved in.
 
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
+#   items:
+#     - name: Foo
+#       link: https://www.google.com
+#       details: |
+#         Project Foo's detail, you can write markdown format text.
 
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+#     - name: Bar
+#       link:
+#       details: |
+#         Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
