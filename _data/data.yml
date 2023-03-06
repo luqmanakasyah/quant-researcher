@@ -120,7 +120,7 @@ certificates:
   title: Professional Certificates
   items:
     - name: Executive Programme in Algorithmic Trading
-      authority: QuantInsti x Institute of Banking and Finance, Singapore
+      authority: QuantInsti x IBF Singapore
       time: 2022
       link: https://certificates.quantinsti.com/ec76682c-5932-4644-845f-30255ece55e9
       details: |
