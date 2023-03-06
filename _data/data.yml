@@ -36,7 +36,7 @@ awards:
   display: true
   title: Awards
   items:
-    - name: **GlobalFoundries Singapore**
+    - name: GlobalFoundries Singapore
       details: |
         Engineering Award for _The Development of a Predictive Maintenance Model for Photoresist Stripping Equipment_
         
