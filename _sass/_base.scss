@@ -139,6 +139,14 @@ small {
             margin-bottom: 1px;
         }
     }
+    
+    .awards {
+        .award {
+            font-weight: $base-font-weight * 1.75;
+            color: $text-color;
+            margin-bottom: 1px;
+        }
+    }
 
     .skills {
         .bar {
