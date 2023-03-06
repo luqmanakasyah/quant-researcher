@@ -32,13 +32,13 @@ profile:
     + Highly quantitative physics PhD graduate with expertise in mathematical modeling of plasma systems and spectral data analysis. Practical experience in using Python for data analysis, visualisation, and developing machine learning pipelines.
     + Second
 
-projects:
-  display: true
-  title: Awards
-  items:
-    - company: GlobalFoundries Singapore
-      details: |
-        **Engineering Award** for _The Development of a Predictive Maintenance Model for Photoresist Stripping Equipment_
+# projects:
+#   display: true
+#   title: Awards
+#   items:
+#     - company: GlobalFoundries Singapore
+#       details: |
+#         **Engineering Award** for _The Development of a Predictive Maintenance Model for Photoresist Stripping Equipment_
         
 experiences:
   display: true
@@ -68,17 +68,15 @@ experiences:
 
         ...
 
-# projects:
-#   display: true
-#   title: Projects
-#   intro: |
-#     This is all the projects I'm involved in.
+projects:
+  display: true
+  title: Awards
+  intro: |
 
-#   items:
-#     - name: Foo
-#       link: https://www.google.com
-#       details: |
-#         Project Foo's detail, you can write markdown format text.
+  items:
+    - name: GlobalFoundries Singapore
+      details: |
+        **Engineering Award** for _The Development of a Predictive Maintenance Model for Photoresist Stripping Equipment_
 
 #     - name: Bar
 #       link:
