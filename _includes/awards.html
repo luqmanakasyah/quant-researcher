@@ -6,7 +6,7 @@
     </div>
 
     <div class="section-content">
-        {% if projects.intro %}
+        {% if awards.intro %}
         <div class="intro">
             <div class="markdown">
                 <p>{{ awards.intro | markdownify }}</p>
@@ -14,7 +14,7 @@
         </div>
         {% endif %}
 
-        {% for awards in awards.items %}
+        {% for award in awards.items %}
         <div class="item">
             {% if award.name %}
             <p class="award">
